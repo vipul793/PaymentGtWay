@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26950" started-at="2022-01-02T14:17:56Z" finished-at="2022-01-02T14:18:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26950" started-at="2022-01-02T14:17:56Z" finished-at="2022-01-02T14:18:23Z">
+      <class name="com.TestCases.PaymentGetWayTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.TestCases.PaymentGetWayTest@6500df86]" name="setup" is-config="true" duration-ms="12117" started-at="2022-01-02T19:47:56Z" finished-at="2022-01-02T19:48:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:com.TestCases.PaymentGetWayTest@6500df86]" name="Test" duration-ms="14069" started-at="2022-01-02T19:48:08Z" finished-at="2022-01-02T19:48:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.TestCases.PaymentGetWayTest@6500df86]" name="closeBrowser" is-config="true" duration-ms="762" started-at="2022-01-02T19:48:22Z" finished-at="2022-01-02T19:48:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.TestCases.PaymentGetWayTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
